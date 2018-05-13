@@ -36,7 +36,7 @@ inc();
 
 //function decrement
 function dec(n){
-  return n-=1
+  returncl n-=1
 }
 dec();
 
