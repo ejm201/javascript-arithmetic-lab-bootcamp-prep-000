@@ -46,4 +46,6 @@ function makeInt(n){
 }
 makeInt(n);
 
+//function flot
+
 
