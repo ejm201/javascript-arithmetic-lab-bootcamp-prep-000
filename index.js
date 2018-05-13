@@ -29,7 +29,13 @@ return number
 divide();
 
 //function increment
+function increment(){
+  
+}
 
 //functiuon decrement
+function increment(){
+  
+}
 
 
