@@ -30,7 +30,7 @@ divide();
 
 //function increment
 function increment(n){
-  return n+=
+  return n+=1
 }
 
 //functiuon decrement
