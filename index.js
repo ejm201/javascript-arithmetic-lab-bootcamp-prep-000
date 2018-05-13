@@ -29,8 +29,8 @@ return number
 divide();
 
 //function increment
-function increment(){
-  
+function increment(n){
+  return n+=
 }
 
 //functiuon decrement
