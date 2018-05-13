@@ -41,6 +41,9 @@ function dec(n){
 dec();
 
 //function parse
-
+function makeInt(n){
+  parseInt(n, 10)
+}
+makeInt(n)
 
 
