@@ -40,4 +40,7 @@ function dec(n){
 }
 dec();
 
+//function parse
+
+
 
