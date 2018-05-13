@@ -29,15 +29,15 @@ return number
 divide();
 
 //function increment
-function increment(n){
+function inc(n){
   return n+=1
 }
-increment();
+inc();
 
 //function decrement
-function decrement(n){
+function dec(n){
   return n-=1
 }
-decrement();
+dec();
 
 
