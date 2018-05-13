@@ -46,6 +46,9 @@ function makeInt(n){
 }
 makeInt(n);
 
-//function flot
-
+//function float 
+function preserveDecimal(n){
+  return parseFloat(n)
+}
+preserveDecimal();
 
