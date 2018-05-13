@@ -32,8 +32,9 @@ divide();
 function increment(n){
   return n+=1
 }
+increment();
 
-//functiuon decrement
+//function decrement
 function increment(){
   
 }
