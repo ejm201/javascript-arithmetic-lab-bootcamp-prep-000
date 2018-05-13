@@ -28,4 +28,8 @@ return number
 }
 divide();
 
+//function increment
+
+//functiuon decrement
+
 
